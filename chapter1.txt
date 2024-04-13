@@ -1,1 +1,13 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+### Capítulo 1: Neón Sobre el Zócalo
+
+La Ciudad de México en 2094 es un torrente de luces neón y sombras oscuras. Los rascacielos de cristal y acero se alzan imponentes sobre las viejas estructuras coloniales, algunas de las cuales han sido adaptadas como fachadas para los mercados negros de tecnología. En el Zócalo, corazón de la ciudad, las ruinas del antiguo Templo Mayor están bañadas por la luz pulsante de los anuncios holográficos que flotan en el aire, promocionando desde modificaciones corporales hasta software de realidad virtual.
+
+En este mundo de contrastes vive Luna García, una hacker habilidosa con un pasado que intenta dejar atrás. Su hogar es un pequeño apartamento en el barrio de Tlatelolco, rodeado de talleres clandestinos y cafés donde los cyberpunks se reúnen para intercambiar información y planear sus próximos golpes.
+
+Esta noche, Luna tiene una misión. Debe infiltrarse en uno de los laboratorios más seguros de la corporación BioGenTek, ubicado en las alturas de la Torre Latinoamericana. El objetivo es obtener una muestra del nuevo nanochip neural que, se rumorea, puede amplificar la capacidad cognitiva de una persona hasta niveles sin precedentes.
+
+Armada con su terminal portátil y una variedad de gadgets ilegales, Luna atraviesa las calles llenas de puestos de comida y bares de synth-tequila, donde los dronbots sirven bebidas y recogen datos de los clientes al mismo tiempo. No es solo la tecnología la que hace palpitar el corazón de la ciudad, sino también los ritmos de la música electrónica que se escapan de cada esquina, mezclados con el aroma del mole y el chile.
+
+Al llegar a la base de la Torre Latinoamericana, Luna se desliza como una sombra entre la multitud de trabajadores nocturnos y turistas que aún pululan por las calles. Su mirada es firme, su mente enfocada. Sabe que lo que está a punto de hacer podría cambiar su destino para siempre, o hundirla en las profundidades de la red criminal de la ciudad, de la que no hay escapatoria.
+
+Con un suspiro, ajusta su chaqueta de cuero y activa el camuflaje óptico. Es hora de ascender.
